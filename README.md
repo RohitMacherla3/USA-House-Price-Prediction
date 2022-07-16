@@ -14,13 +14,14 @@ The data contains the following columns:
 * 'Price': Price that the house sold at
 * 'Address': Address for the house
 
-#Comparing the Models
+# Comparing the Models
 ![image](https://user-images.githubusercontent.com/89356811/179360273-e4fc633c-0929-4155-a96b-856e9501ee80.png)
 
-#Predictions
+# Predictions
 ![image](https://user-images.githubusercontent.com/89356811/179360281-9950d90d-8883-4907-be6d-9c50600973bb.png)
 
-#Metrics
+# Metrics
+
 MAE: 81257.5579585586
 MSE: 10169125565.897497
 RMSE: 100842.08231634994
